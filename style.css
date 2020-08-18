@@ -37,19 +37,19 @@
    }
    .subcontents{
     min-height: 160px;
-    width: 165px ;
+    width: 175px ;
     background-color: yellow;
     display:inline-block;
-    margin: 10px;
+    margin: 5px;
     padding: 10px;
     
    }
    #advertisement{
     min-height: 120px;
-    width: 585px ;
+    width: 605px ;
     background-color: purple;
     display: inline-block;
-    padding: 10px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
    }
    
